@@ -1,6 +1,10 @@
 Statement 1
 Statement 2
 Statement 3
+<<<<<<< Updated upstream
 Statement 4
 Statement 5
 Statement 6
+=======
+Statement 7
+>>>>>>> Stashed changes
